@@ -4,7 +4,7 @@
 
 >  **Interaktive Ansicht:** Um die interaktiven Plotly-Graphen optimal zu betrachten, öffnen Sie dieses Notebook am besten über den folgenden Link: 
 **[NBViewer Link hier einfügen]**.
-**Interaktives Streamlit Dashboard**: [Link zu streamlit]
+**Interaktives Streamlit Dashboard**: https://e-commerceanalytics-h8b2coxhawpwsf6bq53j7r.streamlit.app/
 
 ---
 
