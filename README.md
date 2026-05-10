@@ -3,7 +3,8 @@
 **Explorative Datenanalyse (EDA) zur Identifikation von Umsatztreibern, B2B-Segmentierung und Optimierungshebeln entlang der Customer Journey.**
 
 >  **Interaktive Ansicht:** Um die interaktiven Plotly-Graphen optimal zu betrachten, öffnen Sie dieses Notebook am besten über den folgenden Link: https://jupyterlite.github.io/demo/lab/index.html?path=02_eda.ipynb
-**Interaktives Streamlit Dashboard**: https://e-commerceanalytics-h8b2coxhawpwsf6bq53j7r.streamlit.app/
+
+> **Interaktives Streamlit Dashboard**: https://e-commerceanalytics-h8b2coxhawpwsf6bq53j7r.streamlit.app/
 
 ---
 
