@@ -14,7 +14,7 @@ Dieses Projekt analysiert das Nutzer- und Kaufverhalten eines **fiktiven E-Comme
 **Die wichtigsten Erkenntnisse:**
 
 1.  **Strukturelles B2B-Potenzial & Klumpenrisiko:** Ca.**35%** des Gesamtumsatzes stammen von wenigen High Value Bestellungen. Diese Kunden kaufen selten, aber haben einen großen AOW *Empfehlung: Einführung eines dedizierten B2B-Partnerprogramms.*
-2.  **Unerwartete saisonale Schwäche:**Im Q4 (Nov/Dez) sinkt der Umsatz deutlich – nicht wegen sinkender Warenkörbe, sondern durch geringere Kaufhäufigkeit.
+2.  **Unerwartete saisonale Schwäche:** Im Q4 (Nov/Dez) sinkt der Umsatz deutlich – nicht wegen sinkender Warenkörbe, sondern durch geringere Kaufhäufigkeit.
 3.  **Nutzen durch Werbung maximieren durch Conversion-basiertes Timing:** Während der höchste Traffic in der Mittagspause und abends stattfindet, liegen die echten Conversion-Peaks (bis zu 8 %) am Freitagmittag und am Wochenende. *Empfehlung: Punktgenaue Aussteuerung der Ad-Budgets auf diese Fenster.*
 4.  **geringe Preiselastizität:** Die Korrelation zwischen Preis und Absatz ist nahe zu neutral(-0.06). *Empfehlung: Fokus auf Wertigkeit statt auf aggressive Rabatte.*
 5.  **Retention-Herausforderungen:** Ca.**50 %** der Käufer besitzen keinen Account. Die Langzeit-Retention nach 24 Monaten liegt bei nur ca. 6 %. *Empfehlung: Optimierung des Sign-up-Prozesses.*
