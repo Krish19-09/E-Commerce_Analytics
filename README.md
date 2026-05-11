@@ -65,7 +65,7 @@ Die Analyse basiert auf einem bereinigten Datensatz mit folgenden Dimensionen:
 Um das Projekt lokal auszuführen und die interaktiven Graphen zu generieren, wird **Python 3.8+** benötigt.
 
 ### 1. Repository klonen
-git clone [https://github.com/DEIN_USERNAME/ecommerce-analytics.git]
+git clone [https://github.com/Krish19-09/E-Commerce_Analytics.git]
 
 ### 2. Virtuelle Umgebung erstellen
 "python -m venv venv"
